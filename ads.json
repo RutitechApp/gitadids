@@ -6,14 +6,14 @@
       "launch_count":"1",
       "start_type":"p,a,b,c,d,e,f",
       "aa_ads_default_native":"false",
-      "aa_ads_native_on_off":"true",
-      "reward":"true",
-      "aa_ads_banner_on_off":"true",
-      "aa_is_back_count":"true",
+      "aa_ads_native_on_off":"false",
+      "reward":"false",
+      "aa_ads_banner_on_off":"false",
+      "aa_is_back_count":"false",
       
       
   
-      "ads_type":"google",
+      "ads_type":"",
     
       "ads1_appopen":"ca-app-pub-3940256099942544/9257395921",
       "wortise_openAd":"0c74b2cf-f90c-4918-8bd1-823180c61a74",
@@ -54,7 +54,7 @@
       "vungle_Native":"NATIVE_NON_BIDDING-7989926",
       "vungle_reward":"REWARDED_VIDEO_NON_BIDDING-0010836",
 
-      "is_openAds_show":"true",
+      "is_openAds_show":"false",
       "Native1":"true",
       "Native2":"true",
       "Native3":"true",
